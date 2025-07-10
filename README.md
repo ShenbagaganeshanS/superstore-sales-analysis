@@ -1,7 +1,7 @@
-##📊 Superstore Sales Data Analysis Project
+## 📊 Superstore Sales Data Analysis Project
 This project is a complete end-to-end data analysis pipeline on the Superstore dataset using Python and Power BI. It involves data cleaning, exploratory data analysis (EDA), and interactive dashboarding to derive meaningful business insights.
 
-##🗂️ Project Structure
+## 🗂️ Project Structure
 
 sales/
 │
