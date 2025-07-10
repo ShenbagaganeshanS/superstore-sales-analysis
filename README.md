@@ -4,18 +4,16 @@ This project is a complete end-to-end data analysis pipeline on the Superstore d
 ## 🗂️ Project Structure
 
 sales/
-│
 ├── analysis/
-│   ├── analysis.py        # Data cleaning and preprocessing script
-│   └── eda.py             # Script for generating EDA visualizations (PNG)
-│
+│   ├── analysis.py          # Data cleaning and preprocessing script
+│   └── eda.py               # Script for generating EDA visualizations (PNG)
 ├── Output/
-│   ├── sample.csv         # Cleaned dataset for Power BI
-│   ├── *.png              # Charts created by EDA script
-│   └── superstore.pbix    # Power BI dashboard file
-│
-└── data/
-    └── superstore.csv     # Raw dataset
+│   ├── sample.csv           # Cleaned dataset for Power BI
+│   ├── *.png                # Charts created by EDA script
+│   └── superstore.pbix      # Power BI dashboard file (excluded from Git)
+├── data/
+│   └── superstore.csv       # Raw dataset
+└── README.md                # Project overview
 
 
 ## 🔧 Technologies Used
