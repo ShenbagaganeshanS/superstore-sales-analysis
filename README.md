@@ -81,10 +81,3 @@ The interactive Power BI dashboard includes:
   - Product, Category, Sub-Category
   - Sales, Profit, Quantity, Discount
 
----
-
-## 🙌 Final Notes
-
-This project demonstrates practical **data analysis skills**, **Python scripting**, and **BI reporting**. It's a strong portfolio piece for roles in Data Science or Business Intelligence.
-
-> 💬 Feel free to connect if you’d like to extend this into a forecasting model or integrate SQL insights.
